@@ -40,7 +40,7 @@ function App() {
       <div id="Home" className="container2">
       <div className="container2">
   <p>Hi There, I'm Rayen Louati</p>
-  <img src={img1} alt="my photo" className="image" />
+  <img src={img1} alt="photo" className="image" />
 </div>
 
       </div>
