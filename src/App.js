@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/img-redundant-alt */
 import './App.css';
 import Navbar from './components/Navbar';
 import ProjectCard from './components/ProjectCard';
